@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://techmain.netlify.com',
+    "https://techmain.netlify.app' "
     // "https://techmain.onrender.com/"
 ]
 
